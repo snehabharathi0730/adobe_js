@@ -1,0 +1,15 @@
+{
+  "name": "mywebserver",
+  "version": "1.0.0",
+  "description": "\"Test WebServer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startserver": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
